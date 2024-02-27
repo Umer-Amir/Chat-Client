@@ -124,6 +124,6 @@ This combination of files creates a real-time chat application where users can s
 
 ### Acknowledgments
 
-- Special thanks to The  [Mafia Codes]((https://www.youtube.com/@mafiacodes)) for guiding me through understanding how the socket.io works
+- Special thanks to The  [Mafia Codes]([URL](https://www.youtube.com/@mafiacodes)) for guiding me through understanding how the socket.io works
   
 <img src="./public/images/ME.png" width="250" height="333" />
