@@ -2,8 +2,8 @@
 
 ### Getting Started
 
-To run the Sand Simulator
-2. Open terminal inside the folder and run this command: npm start followed by ctrl + click on http://localhost:3000
+To run the Chat Client:
+  Open terminal inside the folder and run this command: npm start followed by ctrl + click on http://localhost:3000
 
 # Detailed Code Explanation
 
